@@ -7,6 +7,7 @@ public class Voteage
         public static void main(String[] args)
         {
             int age=19;
+
             if (age <=5)
             {
                 System.out.println("pls register your bady");
@@ -15,7 +16,7 @@ public class Voteage
             {
                 System.out.println("You are not eligible for vote.");
             }
-            else if(age<=75)
+            else if(age<=50)
             {
                 System.out.println("You are  eligible for vote.");
             }
