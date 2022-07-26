@@ -16,9 +16,9 @@ public class Voteage
             {
                 System.out.println("You are not eligible for vote.");
             }
-            else if(age<=50)
+            else if(age<=75)
             {
-                System.out.println("You are  eligible for vote.");
+            System.out.println("You are  eligible for vote.");
             }
             else
             {
