@@ -6,7 +6,7 @@ public class Voteage
 
         public static void main(String[] args)
         {
-            int age=19;
+            int age=12;
 
             if (age <=5)
             {
